@@ -1,9 +1,16 @@
 # cs260assignment0
 Assignment 0 for CS 260 at Linn Benton Community College
-five topics related to computing (maybe an interesting looking data structure?!) that interest you, maybe even include a link to a page talking about the topic 
-both in this README file and on the discord channel for this class,
 
-five topics that you feel are difficult right now or topics that you think are generally difficult topics related to computer or computing,
+Interests:
+AI algorithms are nice because they can make things more accurate and precise
+Mainly Java and C/C++ for coding software
+Physics with Greg Mulder
+Maths with Shannon Harbert
+Idk what else I guess I just want to get more into coding.
 
-submit the README into the assignment 0 submission spot on Moodle (this assignment page!)(we will take a look at these  README files again close to the end
-of the term!).
+Difficult:
+AI algorithms due to complexity
+C/C++ with pointers/nodes
+C/C++ with memory allocation
+Any other types of code I haven't got any experience in
+For others sometimes knowing your way around your computer, like shortcuts for things and where thinggs are located, etc.
